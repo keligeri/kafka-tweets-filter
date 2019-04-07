@@ -1,0 +1,19 @@
+group 'com.keli.twitter.producer'
+version '1.0'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.twitter:hbc-core:2.2.0'
+    implementation 'com.twitter:hbc-twitter4j:2.2.0'
+
+    implementation 'org.apache.kafka:kafka-clients:2.2.0'
+
+    testImplementation 'org.slf4j:slf4j-simple:1.7.25'
+}

@@ -1,0 +1,386 @@
+{
+  "created_at": "Sat Apr 06 10:53:05 +0000 2019",
+  "id": 1114481144429301761,
+  "id_str": "1114481144429301761",
+  "text": "RT @ulat_bulu_bulu: Watch till the end.\n\n\ud83d\udcfd : pinging.slugs https:\/\/t.co\/voexfElHxc",
+  "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 903972706969722880,
+    "id_str": "903972706969722880",
+    "name": "yanu",
+    "screen_name": "yanu_sojo",
+    "location": "Beji, Nigeria",
+    "url": null,
+    "description": "teman = kekuatan \/ miayam = makanan pokok",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 179,
+    "friends_count": 203,
+    "listed_count": 0,
+    "favourites_count": 1582,
+    "statuses_count": 8440,
+    "created_at": "Sat Sep 02 13:27:43 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "id",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1109166064095485953\/JRMSuSdT_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1109166064095485953\/JRMSuSdT_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/903972706969722880\/1553280774",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Apr 06 06:09:07 +0000 2019",
+    "id": 1114409681194115078,
+    "id_str": "1114409681194115078",
+    "text": "Watch till the end.\n\n\ud83d\udcfd : pinging.slugs https:\/\/t.co\/voexfElHxc",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2395608518,
+      "id_str": "2395608518",
+      "name": "Bulu Bulu Kehidupan",
+      "screen_name": "ulat_bulu_bulu",
+      "location": "Malaysia",
+      "url": "http:\/\/instagram.com\/bulubulukehidupan",
+      "description": "We do not own content posted. DM for credit \/ removal. PAID REVIEW\/RT UNAVAILABLE.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 488060,
+      "friends_count": 1989,
+      "listed_count": 458,
+      "favourites_count": 2733,
+      "statuses_count": 15148,
+      "created_at": "Tue Mar 18 04:29:05 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/776746655693406208\/DJTixqLG_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/776746655693406208\/DJTixqLG_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2395608518\/1475399010",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 21,
+    "reply_count": 4,
+    "retweet_count": 586,
+    "favorite_count": 525,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1114409604731904000,
+          "id_str": "1114409604731904000",
+          "indices": [
+            39,
+            62
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1114409604731904000\/pu\/img\/zEltyFBKfp4agAe-.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1114409604731904000\/pu\/img\/zEltyFBKfp4agAe-.jpg",
+          "url": "https:\/\/t.co\/voexfElHxc",
+          "display_url": "pic.twitter.com\/voexfElHxc",
+          "expanded_url": "https:\/\/twitter.com\/ulat_bulu_bulu\/status\/1114409681194115078\/video\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1114409604731904000,
+          "id_str": "1114409604731904000",
+          "indices": [
+            39,
+            62
+          ],
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "media_url": "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1114409604731904000\/pu\/img\/zEltyFBKfp4agAe-.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1114409604731904000\/pu\/img\/zEltyFBKfp4agAe-.jpg",
+          "url": "https:\/\/t.co\/voexfElHxc",
+          "display_url": "pic.twitter.com\/voexfElHxc",
+          "expanded_url": "https:\/\/twitter.com\/ulat_bulu_bulu\/status\/1114409681194115078\/video\/1",
+          "type": "video",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 10800,
+            "variants": [
+              {
+                "content_type": "application\/x-mpegURL",
+                "url": "https:\/\/video.twimg.com\/ext_tw_video\/1114409604731904000\/pu\/pl\/k2y-gsgeMsPfyRq5.m3u8?tag=8"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video\/mp4",
+                "url": "https:\/\/video.twimg.com\/ext_tw_video\/1114409604731904000\/pu\/vid\/320x320\/57yfWy9vGtgCDcDC.mp4?tag=8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video\/mp4",
+                "url": "https:\/\/video.twimg.com\/ext_tw_video\/1114409604731904000\/pu\/vid\/480x480\/eDWQlNmMuaEaAu4w.mp4?tag=8"
+              }
+            ]
+          },
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ulat_bulu_bulu",
+        "name": "Bulu Bulu Kehidupan",
+        "id": 2395608518,
+        "id_str": "2395608518",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1114409604731904000,
+        "id_str": "1114409604731904000",
+        "indices": [
+          59,
+          82
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1114409604731904000\/pu\/img\/zEltyFBKfp4agAe-.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1114409604731904000\/pu\/img\/zEltyFBKfp4agAe-.jpg",
+        "url": "https:\/\/t.co\/voexfElHxc",
+        "display_url": "pic.twitter.com\/voexfElHxc",
+        "expanded_url": "https:\/\/twitter.com\/ulat_bulu_bulu\/status\/1114409681194115078\/video\/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 480,
+            "h": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 480,
+            "h": 480,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 480,
+            "h": 480,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1114409681194115078,
+        "source_status_id_str": "1114409681194115078",
+        "source_user_id": 2395608518,
+        "source_user_id_str": "2395608518"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1114409604731904000,
+        "id_str": "1114409604731904000",
+        "indices": [
+          59,
+          82
+        ],
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "media_url": "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1114409604731904000\/pu\/img\/zEltyFBKfp4agAe-.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1114409604731904000\/pu\/img\/zEltyFBKfp4agAe-.jpg",
+        "url": "https:\/\/t.co\/voexfElHxc",
+        "display_url": "pic.twitter.com\/voexfElHxc",
+        "expanded_url": "https:\/\/twitter.com\/ulat_bulu_bulu\/status\/1114409681194115078\/video\/1",
+        "type": "video",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 10800,
+          "variants": [
+            {
+              "content_type": "application\/x-mpegURL",
+              "url": "https:\/\/video.twimg.com\/ext_tw_video\/1114409604731904000\/pu\/pl\/k2y-gsgeMsPfyRq5.m3u8?tag=8"
+            },
+            {
+              "bitrate": 432000,
+              "content_type": "video\/mp4",
+              "url": "https:\/\/video.twimg.com\/ext_tw_video\/1114409604731904000\/pu\/vid\/320x320\/57yfWy9vGtgCDcDC.mp4?tag=8"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video\/mp4",
+              "url": "https:\/\/video.twimg.com\/ext_tw_video\/1114409604731904000\/pu\/vid\/480x480\/eDWQlNmMuaEaAu4w.mp4?tag=8"
+            }
+          ]
+        },
+        "sizes": {
+          "small": {
+            "w": 480,
+            "h": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 480,
+            "h": 480,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 480,
+            "h": 480,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1114409681194115078,
+        "source_status_id_str": "1114409681194115078",
+        "source_user_id": 2395608518,
+        "source_user_id_str": "2395608518"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1554547985547"
+}

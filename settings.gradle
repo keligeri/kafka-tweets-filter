@@ -1,2 +1,4 @@
-rootProject.name = 'twitter-producer'
+rootProject.name = 'kafka-example'
+include 'producer'
+include 'consumer'
 

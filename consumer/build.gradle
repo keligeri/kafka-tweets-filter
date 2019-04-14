@@ -1,0 +1,17 @@
+group 'com.keli.twitter.producer'
+version '1.0'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.apache.kafka:kafka-clients:2.2.0'
+    implementation 'org.elasticsearch.client:elasticsearch-rest-high-level-client:6.4.3'
+
+    implementation 'org.slf4j:slf4j-simple:1.7.25'
+}
